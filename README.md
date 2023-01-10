@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/he4rt/4noobs/raw/master/.github/header_4noobs.svg">
+</p>
+
 # Angular4Noobs
 
 <h1 align="center">
@@ -21,7 +25,7 @@ Repositório com o intuito de ajudar a dar os primeiros passos no framework Angu
 ### Introdução
 
 1. [Introdução](/1%20-%20Introdu%C3%A7%C3%A3o/1.1-Introdu%C3%A7%C3%A3o.md)
-  
+2. [Exemplo](/1%20-%20Introdu%C3%A7%C3%A3o/1.2-Exemplo)
   
 
 ## Autores
