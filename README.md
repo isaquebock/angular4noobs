@@ -24,8 +24,8 @@ Repositório com o intuito de ajudar a dar os primeiros passos no framework Angu
 
 ### Introdução
 
-1. [Introdução](/1%20-%20Introdu%C3%A7%C3%A3o/1.1-Introdu%C3%A7%C3%A3o.md)
-2. [Exemplo](/1%20-%20Introdu%C3%A7%C3%A3o/1.2-Exemplo)
+1. [Introdução](https://github.com/isaquebock/angular4noobs/blob/main/1%20-%20Introdu%C3%A7%C3%A3o/1.1-Introdu%C3%A7%C3%A3o.md)
+2. [Exemplo](https://github.com/isaquebock/angular4noobs/blob/main/1%20-%20Introdu%C3%A7%C3%A3o/1.2-Exemplo.md)
   
 
 ## Autores
